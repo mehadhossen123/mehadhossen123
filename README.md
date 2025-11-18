@@ -1,6 +1,6 @@
 <!--- banner --->
 <p align="center">
-  <img src="./banner/github_banner.png" alt="Hello world" width="100%" />
+  <img src="./banner/bannar.jpg" alt="Hello world" width="100%" />
 </p>
 
 <br/>
