@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="./banner/bannar.jpg" alt="Banner" width="50%" style="border-radius:10px;" />
+  <img src="./banner/bannar.jpg" alt="Banner" width="50%" height="50%" style="border-radius:10px;" />
 </p>
 
 <!-- Name + Typing SVG -->
