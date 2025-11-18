@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="./banner/www.reallygreatsite.com (1).png" alt="Banner" width="80%" he style="border-radius:10px;" />
+  <img src="./banner/www.reallygreatsite.com (1).png" alt="Banner" width="100%" he style="border-radius:10px;" />
 </p>
 
 <!-- Name + Typing SVG -->
