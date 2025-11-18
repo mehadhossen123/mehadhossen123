@@ -1,54 +1,42 @@
-<!--- banner --->
-<p align="center">
-  <img src="./banner/" alt="Hello world" width="100%" />
-</p>
+<!--- banner + profile --->
+<table>
+  <tr>
+    <!-- Left side: banner image -->
+    <td width="50%" valign="top">
+      <img src="./banner/bannar.jpg" alt="Banner" width="90%" style="border-radius:10px;" />
+    </td>
+
+    <!-- Right side: professional info -->
+    <td width="50%" valign="top">
+      <h1>Hi 👋, I'm <span style="color:#2B90FF">Mehad Hossen</span></h1>
+      <p>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=400&lines=MERN+Stack+Developer;Frontend+with+React+%26+Tailwind;Backend+with+Node.js+%26+Express;Database+with+MongoDB" alt="Typing SVG" />
+        </a>
+      </p>
+
+      <ul>
+        <li>👨‍💻 MERN Stack Developer (Professional)</li>
+        <li>🖥️ Frontend: React.js, Tailwind CSS, Bootstrap</li>
+        <li>🗄️ Backend: Node.js, Express.js</li>
+        <li>💾 Database: MongoDB, PostgreSQL</li>
+        <li>⚡ Focus: Scalable, responsive web apps</li>
+        <li>📫 Email: <a href="mailto:mehad004938@gmail.com">mehad004938@gmail.com</a></li>
+      </ul>
+
+      <p>
+        🔗 Connect: 
+        <a href="https://linkedin.com/in/mehad-hossen">LinkedIn</a> | 
+        <a href="https://github.com/mehad004938">GitHub</a> | 
+        <a href="https://stackoverflow.com/users/mehad004938">StackOverflow</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!--- title --->
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#2B90FF">Mehad Hossen</span>
-</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+with+React+%26+Tailwind;Backend+with+Node.js+%26+Express;Database+with+MongoDB" alt="Typing SVG" />
-  </a>
-</p>
-
-<br/>
-
-<!--- about --->
-## 🌟 About Me
-- 👋 Hi, I’m **Mehad Hossen**  
-- 🖥️ I build **modern, responsive web applications** using **React.js, Tailwind CSS, JavaScript**  
-- 🗄️ Backend expertise with **Node.js, Express.js, MongoDB**  
-- 🌱 Currently learning **Next.js, PostgreSQL,Bootstrap**  
-- 💬 Ask me about **MERN Stack Development**  
-- 📫 Reach me at: [mehad004938@gmail.com](mailto:mehad004938@gmail.com)  
-
-<br/>
-
-<!--- socials --->
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/mehad-hossen" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://github.com/mehad004938" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/mehad004938" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="40" width="40" />
-  </a>
-  <a href="mailto:mehad004938@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" width="40" />
-  </a>
-</p>
-
-<br/>
-
-<!--- technology --->
+<!--- Technology Stack --->
 ## 🚀 My Tech Stack
 
 ### Languages:
@@ -106,4 +94,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mehad004938&label=Profile%20Views&color=2B90FF&style=flat-square" alt="Profile Views" />
 </p>
-
