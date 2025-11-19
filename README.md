@@ -17,7 +17,8 @@
 - 👨‍💻 MERN Stack Developer (Professional)  
 - 🖥️ Frontend: React.js, Tailwind CSS, Bootstrap  
 - 🗄️ Backend: Node.js, Express.js  
-- 💾 Database: MongoDB, PostgreSQL  
+- 💾 Database: MongoDB,
+- 💾 Now exploring postgresql,bootstrap..,next.js,
 - ⚡ Focus: Scalable, responsive web apps  
 - 📫 Email: [mehad004938@gmail.com](mailto:mehad004938@gmail.com)  
 
