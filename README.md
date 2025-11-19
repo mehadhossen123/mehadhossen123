@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/mehad-hossen" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
   </a>
-  <a href="https://github.com/mehad004938" target="_blank">
+  <a href="https://github.com/mehadhossen123" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/mehad004938" target="_blank">
@@ -69,15 +69,15 @@
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehad004938&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehadhossen123&theme=radical&show_icons=true&count_private=true&hide_border=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehad004938&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehadhossen123&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mehad004938&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mehadhossen123&theme=radical" alt="GitHub Streak" />
 </p>
 
 <!-- Daily Dev Quote -->
@@ -88,5 +88,5 @@
 
 <!-- Visitor Count -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehad004938&label=Profile%20Views&color=2B90FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mehadhossen123&label=Profile%20Views&color=2B90FF&style=flat-square" alt="Profile Views" />
 </p>
