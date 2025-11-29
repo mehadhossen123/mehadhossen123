@@ -20,7 +20,8 @@
 - 💾 Database: MongoDB,
 - 💾 Now exploring postgresql,bootstrap..,next.js,
 - ⚡ Focus: Scalable, responsive web apps  
-- 📫 Email: [mehad004938@gmail.com](mailto:mehad004938@gmail.com)  
+- 📫 Email: [mehad004938@gmail.com](mailto:mehad004938@gmail.com)
+- Resume: https://docs.google.com/document/d/1x4362wOfwDg6EQQCs0UHVRXFSe3bYsXZRpy387MNGbw/edit?usp=sharing
 
 <!-- Connect with Me -->
 ## 🔗 Connect with Me
